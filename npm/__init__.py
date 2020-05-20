@@ -8,3 +8,4 @@ Created on Tue Jan 28 15:05:39 2020
 from .wgm_resonator import *
 from .txtsave import *
 from .resonatorCalculator import *
+from.test import *
