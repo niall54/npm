@@ -12,7 +12,7 @@ setup(
   description='An awesome package that does something',
   long_description=open('README.txt').read(),
   install_requires=[
-      "numpy"
+      "numpy",
       "matplotlib",
   ],
 )
