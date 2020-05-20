@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
   name='npm',
-  version='0.1.0',
+  version='0.1.1',
   author='Niall Moroney',
   author_email='niall_moroney@hotmail.co.uk',
   packages=['npm'],
